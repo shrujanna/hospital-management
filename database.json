@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "patients": [
+    {
+      "name": "zac efron",
+      "age": "39",
+      "gender": "male",
+      "id": 1
+    }
+  ],
+  "appointments": [
+    {
+      "patient_id": "1",
+      "doctor": "dr rhea",
+      "time": "11 am"
+    }
+  ]
+}
